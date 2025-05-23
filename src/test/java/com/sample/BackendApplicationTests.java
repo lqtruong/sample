@@ -1,4 +1,4 @@
-package ai.chatbot.sample.aicb_backend;
+package com.sample;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
